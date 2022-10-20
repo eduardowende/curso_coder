@@ -1,0 +1,45 @@
+/*aplico color red a la etiqueta p en general*/
+p{
+    color: red;
+}
+/*aplico color azul a la etiqueta h1*/
+h1{
+    color:blue;
+}
+/*aplico color verde a la etiqueta h2*/
+h2{
+    color: green;
+}
+/*aplico color Marron a la etiqueta div*/
+div{
+    color:brown;
+}
+.color__violeta{
+    color: blueviolet;
+}
+.p__div{
+    color: deeppink;
+    background-color: darkslategray;
+}
+#p__principal{
+    font-weight:900;
+    font-style: italic;
+    color: coral;
+    font-size: 50px;
+}
+#p__muestra{
+    color: rgb(192, 255, 20);
+    background-color: rgb(7, 44, 44);
+    font-style: italic;    
+}
+#id__div{
+    color: rgb(9, 12, 1);
+    background-color: rgb(143, 175, 175);
+    font-style: italic;   
+}
+li{
+    color:green;
+}
+.lista__roja li{
+    color:red ;
+}

@@ -1,0 +1,50 @@
+/*css sobre etiquetas*/
+h1 {
+    color: red;
+}
+/*css sobre clases . */
+.p_main {
+    color: blue; 
+}
+.ejemplo_herencia {
+    color: green;
+}
+/*css sobre id # */
+#marron {
+    color: darkred;
+}
+/*css sobre exclusion * */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+li1 {
+    text-align: center;
+    list-style: none;
+}
+.h2_nuevo {
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    background-color: aqua;
+
+}
+body1{
+    background-image: url(../imagen/imagen_pexcel.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.p--verde {
+    color: green;
+}
+.menu {
+    color: black;
+}
+li {
+  display:inline-block ;
+  margin-left: 20px;
+  
+}
